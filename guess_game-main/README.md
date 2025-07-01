@@ -444,15 +444,7 @@ REACT_APP_BACKEND_URL=http://localhost/api
 - **Sistema de Limpeza**: Remoção automática de recursos não utilizados
 - **Hot Reload**: Desenvolvimento com recarregamento automático
 - **Multi-Environment**: Suporte para desenvolvimento, teste e produção
-
-## 🤝 Contribuição
-
-1. Fork o projeto
-2. Crie uma branch (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
+- 
 ## 📄 Licença
 
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
