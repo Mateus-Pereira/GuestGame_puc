@@ -185,8 +185,8 @@ Execute o script de verificação para confirmar se seu ambiente está pronto:
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/fams/guess_game.git
-cd guess_game
+git clone https://github.com/Mateus-Pereira/GuestGame_puc.git
+cd guess_game-main
 
 # 2. Torne os scripts executáveis
 chmod +x scripts/*.sh
@@ -202,8 +202,8 @@ chmod +x scripts/*.sh
 
 ```bash
 # 1. Clone e acesse o diretório
-git clone https://github.com/fams/guess_game.git
-cd guess_game
+git clone https://github.com/Mateus-Pereira/GuestGame_puc.git
+cd guess_game-main
 
 # 2. Configure as variáveis de ambiente
 cp .env.example .env
