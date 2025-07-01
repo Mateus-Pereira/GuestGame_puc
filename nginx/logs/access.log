@@ -1,0 +1,4 @@
+172.20.0.1 - - [01/Jul/2025:15:06:54 +0000] "GET / HTTP/1.1" 200 644 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 0.000
+172.20.0.1 - - [01/Jul/2025:15:06:54 +0000] "GET /static/css/main.68eeedf2.css.map HTTP/1.1" 200 42698 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 0.001
+172.20.0.1 - - [01/Jul/2025:15:06:54 +0000] "GET /static/js/main.244b8a52.js.map HTTP/1.1" 200 812234 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 0.003
+172.20.0.1 - - [01/Jul/2025:15:07:13 +0000] "POST /api/auth/register HTTP/1.1" 201 507 "http://localhost/register" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 0.317
